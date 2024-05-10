@@ -1,13 +1,14 @@
 public class InverseMatrixMethod {
 
     public static void main(String[] args) {
-        // Coefficients of the linear equations
+        //1st problem
 //        double[][] coefficients = {
 //                {2, -1, 3, 9},
 //                {1, 2, 1, 8},
 //                {3, 0, -1, 3}
 //        };
 
+        //2nd problem
         double[][] coefficients = {
                 {3, 2, -1, 10},
                 {2, -1, 3, 5},
